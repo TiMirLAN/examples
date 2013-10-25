@@ -16,7 +16,7 @@ class Tag(models.Model):
         return self.title
 
     def get_absolute_url(self):
-        return '/' # TODO Метод должен возвращать ссыку на публикации по тегу. Нужно для sitemaps.
+        raise NotImplementedError # TODO Метод должен возвращать ссыку на публикации по тегу. Нужно для sitemaps.
 
     class Meta:
         verbose_name = u"Тег"
