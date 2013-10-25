@@ -1,0 +1,13 @@
+Django==1.5.2
+Pillow
+Pillow-PIL
+South
+argparse
+distribute
+django-annoying
+django-debug-toolbar
+wsgiref
+ipython
+raven
+# MySQL-python
+# psycopg2
