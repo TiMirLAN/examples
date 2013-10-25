@@ -1,4 +1,7 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
+root/local_settings.py
+.idea
+*.sqlite3
+www/static/*
