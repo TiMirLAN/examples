@@ -1,6 +1,5 @@
 Django==1.5.2
 Pillow
-Pillow-PIL
 South
 argparse
 distribute
