@@ -8,3 +8,7 @@ The example of code collected from my projects.
 
 Site examples / Примеры сайтов
 ------------------------------
+
+ - http://visa-74.ru/
+ - http://personatour.com/
+ - http://okno74.ru/
